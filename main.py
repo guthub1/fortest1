@@ -1,0 +1,1 @@
+print('from user2')
